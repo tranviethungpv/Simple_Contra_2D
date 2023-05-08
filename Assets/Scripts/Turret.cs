@@ -16,7 +16,7 @@ public class Turret : MonoBehaviour {
     private CircleCollider2D circleCollider;
     private Animator animator;
     public GameObject particles;
-    public float bulletSpeed;
+    private float bulletSpeed = 5f;
     // Use this for initialization
     void Start () {
         GameObject myObject = GameObject.Find("Player");

@@ -13,7 +13,7 @@ public class EnemyShooting : MonoBehaviour
     private bool temp = false;
     private bool facingRight = false;
     private bool isDead = false;
-    private float bulletSpeed = 0.1f;
+    private float bulletSpeed = 5f;
 
     // Use this for initialization
     void Start()
