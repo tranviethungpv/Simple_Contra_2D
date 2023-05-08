@@ -16,6 +16,7 @@ public class Turret : MonoBehaviour {
     private CircleCollider2D circleCollider;
     private Animator animator;
     public GameObject particles;
+    public float bulletSpeed;
     // Use this for initialization
     void Start () {
         GameObject myObject = GameObject.Find("Player");
@@ -25,7 +26,7 @@ public class Turret : MonoBehaviour {
         animator = gameObject.GetComponent<Animator>();
         if (!isDead)
         {
-            InvokeRepeating("Shoot", 0, 2);
+            InvokeRepeating("Shoot", 0, 1);
         }
     }
 	
@@ -41,16 +42,23 @@ public class Turret : MonoBehaviour {
         else temp = false;
        
     }
+
+    //Hàm xử lí việc bắn đạn
     private void Shoot()
     {
 
         if (temp && !isDead)
         {
-            Instantiate(enemyBullet, firePosition.position, Quaternion.identity);
-
+            // Tính toán vector hướng từ turret đến player
+            Vector3 direction = target.position - transform.position;
+            // Tạo enemyBullet và thiết lập velocity theo vector hướng này
+            GameObject bullet = Instantiate(enemyBullet, firePosition.position, Quaternion.identity);
+            bullet.GetComponent<Rigidbody2D>().velocity = direction.normalized * bulletSpeed;
         }
 
     }
+
+    //Xử lí va chạm
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.tag == "Bullet")

@@ -20,7 +20,6 @@ public class DestroyHeart : MonoBehaviour {
 	void Update () {
         playerHealth = player.GetComponent<PlayerManager>().health;
         DestroyImage();
-        
     }
     public void DestroyImage()
     {

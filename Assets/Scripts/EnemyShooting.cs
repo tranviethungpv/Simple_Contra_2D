@@ -13,7 +13,8 @@ public class EnemyShooting : MonoBehaviour
     private bool temp = false;
     private bool facingRight = false;
     private bool isDead = false;
-    
+    private float bulletSpeed = 0.1f;
+
     // Use this for initialization
     void Start()
     {
@@ -22,7 +23,8 @@ public class EnemyShooting : MonoBehaviour
         firePosition = transform.Find("EnemyFirePoint");
         if (!isDead)
         {
-            InvokeRepeating("Shoot", 0, 2);
+            //Lặp lại hàm bắn đạn
+            InvokeRepeating("Shoot", 0, 1);
         }
     }
 
@@ -38,21 +40,21 @@ public class EnemyShooting : MonoBehaviour
         }
         else temp = false;
         Flip();
-
-
     }
+    //Hàm để bắn
     private void Shoot()
     {
-
         if (temp && !isDead)
         {
-            Instantiate(enemyBullet, firePosition.position, Quaternion.identity);
-
+            // Tính toán vector hướng từ enemy đến player
+            Vector3 direction = target.position - transform.position;
+            // Tạo enemyBullet và thiết lập velocity theo vector hướng này
+            GameObject bullet = Instantiate(enemyBullet, firePosition.position, Quaternion.identity);
+            bullet.GetComponent<Rigidbody2D>().velocity = direction.normalized * bulletSpeed;
         }
-
-
     }
 
+    //Hàm đổi hướng, quay về phía Player
     private void Flip()
     {
         float distance;
@@ -67,12 +69,11 @@ public class EnemyShooting : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        //Nếu dính đạn -> chết
         if (collision.gameObject.tag == "Bullet")
         {
             Destroy(gameObject, 1f);
             isDead = true;
-
-
         }
     }
 }

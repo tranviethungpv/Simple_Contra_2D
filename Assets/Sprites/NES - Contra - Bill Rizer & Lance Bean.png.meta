@@ -1,194 +1,561 @@
 fileFormatVersion: 2
 guid: 4de7418bc9d48034a8d940036401eb23
-timeCreated: 1499961130
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Desine3
-    21300002: Desine4
-    21300004: NES - Contra - Bill Rizer & Lance Bean_2
-    21300006: NES - Contra - Bill Rizer & Lance Bean_3
-    21300008: NES - Contra - Bill Rizer & Lance Bean_4
-    21300010: NES - Contra - Bill Rizer & Lance Bean_5
-    21300012: NES - Contra - Bill Rizer & Lance Bean_6
-    21300014: NES - Contra - Bill Rizer & Lance Bean_7
-    21300016: NES - Contra - Bill Rizer & Lance Bean_8
-    21300018: NES - Contra - Bill Rizer & Lance Bean_9
-    21300020: NES - Contra - Bill Rizer & Lance Bean_10
-    21300022: Desine1
-    21300024: Desine2
-    21300026: NES - Contra - Bill Rizer & Lance Bean_13
-    21300028: NES - Contra - Bill Rizer & Lance Bean_14
-    21300030: NES - Contra - Bill Rizer & Lance Bean_15
-    21300032: NES - Contra - Bill Rizer & Lance Bean_16
-    21300034: NES - Contra - Bill Rizer & Lance Bean_17
-    21300036: NES - Contra - Bill Rizer & Lance Bean_18
-    21300038: Desine5
-    21300040: Desine6
-    21300042: NES - Contra - Bill Rizer & Lance Bean_21
-    21300044: NES - Contra - Bill Rizer & Lance Bean_22
-    21300046: Desine7
-    21300048: Desine9
-    21300050: Desine10
-    21300052: Desine11
-    21300054: Desine12
-    21300056: Desine13
-    21300058: Desine14
-    21300060: Desine15
-    21300062: Desine16
-    21300064: Desine17
-    21300066: NES - Contra - Bill Rizer & Lance Bean_33
-    21300068: NES - Contra - Bill Rizer & Lance Bean_34
-    21300070: NES - Contra - Bill Rizer & Lance Bean_35
-    21300072: NES - Contra - Bill Rizer & Lance Bean_36
-    21300074: NES - Contra - Bill Rizer & Lance Bean_37
-    21300076: NES - Contra - Bill Rizer & Lance Bean_38
-    21300078: NES - Contra - Bill Rizer & Lance Bean_39
-    21300080: NES - Contra - Bill Rizer & Lance Bean_40
-    21300082: NES - Contra - Bill Rizer & Lance Bean_41
-    21300084: NES - Contra - Bill Rizer & Lance Bean_42
-    21300086: Desine19
-    21300088: Desine20
-    21300090: Desine21
-    21300092: Desine23
-    21300094: Desine24
-    21300096: Desine25
-    21300098: Desine26
-    21300100: Desine27
-    21300102: NES - Contra - Bill Rizer & Lance Bean_51
-    21300104: NES - Contra - Bill Rizer & Lance Bean_52
-    21300106: NES - Contra - Bill Rizer & Lance Bean_53
-    21300108: NES - Contra - Bill Rizer & Lance Bean_54
-    21300110: NES - Contra - Bill Rizer & Lance Bean_55
-    21300112: NES - Contra - Bill Rizer & Lance Bean_56
-    21300114: NES - Contra - Bill Rizer & Lance Bean_57
-    21300116: NES - Contra - Bill Rizer & Lance Bean_58
-    21300118: Desine28
-    21300120: Desine29
-    21300122: Desine30
-    21300124: NES - Contra - Bill Rizer & Lance Bean_62
-    21300126: NES - Contra - Bill Rizer & Lance Bean_63
-    21300128: NES - Contra - Bill Rizer & Lance Bean_64
-    21300130: Desine31
-    21300132: NES - Contra - Bill Rizer & Lance Bean_66
-    21300134: Desine32
-    21300136: NES - Contra - Bill Rizer & Lance Bean_68
-    21300138: NES - Contra - Bill Rizer & Lance Bean_69
-    21300140: NES - Contra - Bill Rizer & Lance Bean_70
-    21300142: Desine33
-    21300144: Desine34
-    21300146: Desine35
-    21300148: NES - Contra - Bill Rizer & Lance Bean_74
-    21300150: NES - Contra - Bill Rizer & Lance Bean_75
-    21300152: NES - Contra - Bill Rizer & Lance Bean_76
-    21300154: Desine36
-    21300156: Desine37
-    21300158: Desine38
-    21300160: NES - Contra - Bill Rizer & Lance Bean_80
-    21300162: NES - Contra - Bill Rizer & Lance Bean_81
-    21300164: NES - Contra - Bill Rizer & Lance Bean_82
-    21300166: Desine39
-    21300168: Desine40
-    21300170: Desine41
-    21300172: NES - Contra - Bill Rizer & Lance Bean_86
-    21300174: NES - Contra - Bill Rizer & Lance Bean_87
-    21300176: NES - Contra - Bill Rizer & Lance Bean_88
-    21300178: NES - Contra - Bill Rizer & Lance Bean_89
-    21300180: NES - Contra - Bill Rizer & Lance Bean_90
-    21300182: NES - Contra - Bill Rizer & Lance Bean_91
-    21300184: NES - Contra - Bill Rizer & Lance Bean_92
-    21300186: NES - Contra - Bill Rizer & Lance Bean_93
-    21300188: NES - Contra - Bill Rizer & Lance Bean_94
-    21300190: NES - Contra - Bill Rizer & Lance Bean_95
-    21300192: NES - Contra - Bill Rizer & Lance Bean_96
-    21300194: NES - Contra - Bill Rizer & Lance Bean_97
-    21300196: NES - Contra - Bill Rizer & Lance Bean_98
-    21300198: NES - Contra - Bill Rizer & Lance Bean_99
-    21300200: NES - Contra - Bill Rizer & Lance Bean_100
-    21300202: NES - Contra - Bill Rizer & Lance Bean_101
-    21300204: NES - Contra - Bill Rizer & Lance Bean_102
-    21300206: NES - Contra - Bill Rizer & Lance Bean_103
-    21300208: NES - Contra - Bill Rizer & Lance Bean_104
-    21300210: NES - Contra - Bill Rizer & Lance Bean_105
-    21300212: NES - Contra - Bill Rizer & Lance Bean_106
-    21300214: NES - Contra - Bill Rizer & Lance Bean_107
-    21300216: NES - Contra - Bill Rizer & Lance Bean_108
-    21300218: NES - Contra - Bill Rizer & Lance Bean_109
-    21300220: NES - Contra - Bill Rizer & Lance Bean_110
-    21300222: NES - Contra - Bill Rizer & Lance Bean_111
-    21300224: NES - Contra - Bill Rizer & Lance Bean_112
-    21300226: NES - Contra - Bill Rizer & Lance Bean_113
-    21300228: NES - Contra - Bill Rizer & Lance Bean_114
-    21300230: NES - Contra - Bill Rizer & Lance Bean_115
-    21300232: NES - Contra - Bill Rizer & Lance Bean_116
-    21300234: NES - Contra - Bill Rizer & Lance Bean_117
-    21300236: NES - Contra - Bill Rizer & Lance Bean_118
-    21300238: NES - Contra - Bill Rizer & Lance Bean_119
-    21300240: NES - Contra - Bill Rizer & Lance Bean_120
-    21300242: NES - Contra - Bill Rizer & Lance Bean_121
-    21300244: NES - Contra - Bill Rizer & Lance Bean_122
-    21300246: NES - Contra - Bill Rizer & Lance Bean_123
-    21300248: NES - Contra - Bill Rizer & Lance Bean_124
-    21300250: NES - Contra - Bill Rizer & Lance Bean_125
-    21300252: NES - Contra - Bill Rizer & Lance Bean_126
-    21300254: NES - Contra - Bill Rizer & Lance Bean_127
-    21300256: NES - Contra - Bill Rizer & Lance Bean_128
-    21300258: NES - Contra - Bill Rizer & Lance Bean_129
-    21300260: NES - Contra - Bill Rizer & Lance Bean_130
-    21300262: NES - Contra - Bill Rizer & Lance Bean_131
-    21300264: NES - Contra - Bill Rizer & Lance Bean_132
-    21300266: NES - Contra - Bill Rizer & Lance Bean_133
-    21300268: NES - Contra - Bill Rizer & Lance Bean_134
-    21300270: NES - Contra - Bill Rizer & Lance Bean_135
-    21300272: NES - Contra - Bill Rizer & Lance Bean_136
-    21300274: NES - Contra - Bill Rizer & Lance Bean_137
-    21300276: NES - Contra - Bill Rizer & Lance Bean_138
-    21300278: NES - Contra - Bill Rizer & Lance Bean_139
-    21300280: NES - Contra - Bill Rizer & Lance Bean_140
-    21300282: NES - Contra - Bill Rizer & Lance Bean_141
-    21300284: NES - Contra - Bill Rizer & Lance Bean_142
-    21300286: NES - Contra - Bill Rizer & Lance Bean_0
-    21300288: NES - Contra - Bill Rizer & Lance Bean_1
-    21300290: NES - Contra - Bill Rizer & Lance Bean_11
-    21300292: NES - Contra - Bill Rizer & Lance Bean_12
-    21300294: NES - Contra - Bill Rizer & Lance Bean_19
-    21300296: NES - Contra - Bill Rizer & Lance Bean_20
-    21300298: NES - Contra - Bill Rizer & Lance Bean_23
-    21300300: NES - Contra - Bill Rizer & Lance Bean_24
-    21300302: NES - Contra - Bill Rizer & Lance Bean_25
-    21300304: NES - Contra - Bill Rizer & Lance Bean_26
-    21300306: NES - Contra - Bill Rizer & Lance Bean_27
-    21300308: NES - Contra - Bill Rizer & Lance Bean_28
-    21300310: NES - Contra - Bill Rizer & Lance Bean_29
-    21300312: NES - Contra - Bill Rizer & Lance Bean_30
-    21300314: NES - Contra - Bill Rizer & Lance Bean_31
-    21300316: NES - Contra - Bill Rizer & Lance Bean_32
-    21300318: NES - Contra - Bill Rizer & Lance Bean_43
-    21300320: NES - Contra - Bill Rizer & Lance Bean_44
-    21300322: NES - Contra - Bill Rizer & Lance Bean_45
-    21300324: NES - Contra - Bill Rizer & Lance Bean_46
-    21300326: NES - Contra - Bill Rizer & Lance Bean_47
-    21300328: NES - Contra - Bill Rizer & Lance Bean_48
-    21300330: NES - Contra - Bill Rizer & Lance Bean_49
-    21300332: NES - Contra - Bill Rizer & Lance Bean_50
-    21300334: NES - Contra - Bill Rizer & Lance Bean_59
-    21300336: NES - Contra - Bill Rizer & Lance Bean_60
-    21300338: NES - Contra - Bill Rizer & Lance Bean_61
-    21300340: NES - Contra - Bill Rizer & Lance Bean_65
-    21300342: NES - Contra - Bill Rizer & Lance Bean_67
-    21300344: NES - Contra - Bill Rizer & Lance Bean_71
-    21300346: NES - Contra - Bill Rizer & Lance Bean_72
-    21300348: NES - Contra - Bill Rizer & Lance Bean_73
-    21300350: NES - Contra - Bill Rizer & Lance Bean_77
-    21300352: NES - Contra - Bill Rizer & Lance Bean_78
-    21300354: NES - Contra - Bill Rizer & Lance Bean_79
-    21300356: NES - Contra - Bill Rizer & Lance Bean_83
-    21300358: NES - Contra - Bill Rizer & Lance Bean_84
-    21300360: NES - Contra - Bill Rizer & Lance Bean_85
-    21300362: RoboGun
-    21300364: NES - Contra - Bill Rizer & Lance Bean_143
-    21300366: NES - Contra - Bill Rizer & Lance Bean_144
-  serializedVersion: 4
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Desine3
+  - first:
+      213: 21300002
+    second: Desine4
+  - first:
+      213: 21300004
+    second: NES - Contra - Bill Rizer & Lance Bean_2
+  - first:
+      213: 21300006
+    second: NES - Contra - Bill Rizer & Lance Bean_3
+  - first:
+      213: 21300008
+    second: NES - Contra - Bill Rizer & Lance Bean_4
+  - first:
+      213: 21300010
+    second: NES - Contra - Bill Rizer & Lance Bean_5
+  - first:
+      213: 21300012
+    second: NES - Contra - Bill Rizer & Lance Bean_6
+  - first:
+      213: 21300014
+    second: NES - Contra - Bill Rizer & Lance Bean_7
+  - first:
+      213: 21300016
+    second: NES - Contra - Bill Rizer & Lance Bean_8
+  - first:
+      213: 21300018
+    second: NES - Contra - Bill Rizer & Lance Bean_9
+  - first:
+      213: 21300020
+    second: NES - Contra - Bill Rizer & Lance Bean_10
+  - first:
+      213: 21300022
+    second: Desine1
+  - first:
+      213: 21300024
+    second: Desine2
+  - first:
+      213: 21300026
+    second: NES - Contra - Bill Rizer & Lance Bean_13
+  - first:
+      213: 21300028
+    second: NES - Contra - Bill Rizer & Lance Bean_14
+  - first:
+      213: 21300030
+    second: NES - Contra - Bill Rizer & Lance Bean_15
+  - first:
+      213: 21300032
+    second: NES - Contra - Bill Rizer & Lance Bean_16
+  - first:
+      213: 21300034
+    second: NES - Contra - Bill Rizer & Lance Bean_17
+  - first:
+      213: 21300036
+    second: NES - Contra - Bill Rizer & Lance Bean_18
+  - first:
+      213: 21300038
+    second: Desine5
+  - first:
+      213: 21300040
+    second: Desine6
+  - first:
+      213: 21300042
+    second: NES - Contra - Bill Rizer & Lance Bean_21
+  - first:
+      213: 21300044
+    second: NES - Contra - Bill Rizer & Lance Bean_22
+  - first:
+      213: 21300046
+    second: Desine7
+  - first:
+      213: 21300048
+    second: Desine9
+  - first:
+      213: 21300050
+    second: Desine10
+  - first:
+      213: 21300052
+    second: Desine11
+  - first:
+      213: 21300054
+    second: Desine12
+  - first:
+      213: 21300056
+    second: Desine13
+  - first:
+      213: 21300058
+    second: Desine14
+  - first:
+      213: 21300060
+    second: Desine15
+  - first:
+      213: 21300062
+    second: Desine16
+  - first:
+      213: 21300064
+    second: Desine17
+  - first:
+      213: 21300066
+    second: NES - Contra - Bill Rizer & Lance Bean_33
+  - first:
+      213: 21300068
+    second: NES - Contra - Bill Rizer & Lance Bean_34
+  - first:
+      213: 21300070
+    second: NES - Contra - Bill Rizer & Lance Bean_35
+  - first:
+      213: 21300072
+    second: NES - Contra - Bill Rizer & Lance Bean_36
+  - first:
+      213: 21300074
+    second: NES - Contra - Bill Rizer & Lance Bean_37
+  - first:
+      213: 21300076
+    second: NES - Contra - Bill Rizer & Lance Bean_38
+  - first:
+      213: 21300078
+    second: NES - Contra - Bill Rizer & Lance Bean_39
+  - first:
+      213: 21300080
+    second: NES - Contra - Bill Rizer & Lance Bean_40
+  - first:
+      213: 21300082
+    second: NES - Contra - Bill Rizer & Lance Bean_41
+  - first:
+      213: 21300084
+    second: NES - Contra - Bill Rizer & Lance Bean_42
+  - first:
+      213: 21300086
+    second: Desine19
+  - first:
+      213: 21300088
+    second: Desine20
+  - first:
+      213: 21300090
+    second: Desine21
+  - first:
+      213: 21300092
+    second: Desine23
+  - first:
+      213: 21300094
+    second: Desine24
+  - first:
+      213: 21300096
+    second: Desine25
+  - first:
+      213: 21300098
+    second: Desine26
+  - first:
+      213: 21300100
+    second: Desine27
+  - first:
+      213: 21300102
+    second: NES - Contra - Bill Rizer & Lance Bean_51
+  - first:
+      213: 21300104
+    second: NES - Contra - Bill Rizer & Lance Bean_52
+  - first:
+      213: 21300106
+    second: NES - Contra - Bill Rizer & Lance Bean_53
+  - first:
+      213: 21300108
+    second: NES - Contra - Bill Rizer & Lance Bean_54
+  - first:
+      213: 21300110
+    second: NES - Contra - Bill Rizer & Lance Bean_55
+  - first:
+      213: 21300112
+    second: NES - Contra - Bill Rizer & Lance Bean_56
+  - first:
+      213: 21300114
+    second: NES - Contra - Bill Rizer & Lance Bean_57
+  - first:
+      213: 21300116
+    second: NES - Contra - Bill Rizer & Lance Bean_58
+  - first:
+      213: 21300118
+    second: Desine28
+  - first:
+      213: 21300120
+    second: Desine29
+  - first:
+      213: 21300122
+    second: Desine30
+  - first:
+      213: 21300124
+    second: NES - Contra - Bill Rizer & Lance Bean_62
+  - first:
+      213: 21300126
+    second: NES - Contra - Bill Rizer & Lance Bean_63
+  - first:
+      213: 21300128
+    second: NES - Contra - Bill Rizer & Lance Bean_64
+  - first:
+      213: 21300130
+    second: Desine31
+  - first:
+      213: 21300132
+    second: NES - Contra - Bill Rizer & Lance Bean_66
+  - first:
+      213: 21300134
+    second: Desine32
+  - first:
+      213: 21300136
+    second: NES - Contra - Bill Rizer & Lance Bean_68
+  - first:
+      213: 21300138
+    second: NES - Contra - Bill Rizer & Lance Bean_69
+  - first:
+      213: 21300140
+    second: NES - Contra - Bill Rizer & Lance Bean_70
+  - first:
+      213: 21300142
+    second: Desine33
+  - first:
+      213: 21300144
+    second: Desine34
+  - first:
+      213: 21300146
+    second: Desine35
+  - first:
+      213: 21300148
+    second: NES - Contra - Bill Rizer & Lance Bean_74
+  - first:
+      213: 21300150
+    second: NES - Contra - Bill Rizer & Lance Bean_75
+  - first:
+      213: 21300152
+    second: NES - Contra - Bill Rizer & Lance Bean_76
+  - first:
+      213: 21300154
+    second: Desine36
+  - first:
+      213: 21300156
+    second: Desine37
+  - first:
+      213: 21300158
+    second: Desine38
+  - first:
+      213: 21300160
+    second: NES - Contra - Bill Rizer & Lance Bean_80
+  - first:
+      213: 21300162
+    second: NES - Contra - Bill Rizer & Lance Bean_81
+  - first:
+      213: 21300164
+    second: NES - Contra - Bill Rizer & Lance Bean_82
+  - first:
+      213: 21300166
+    second: Desine39
+  - first:
+      213: 21300168
+    second: Desine40
+  - first:
+      213: 21300170
+    second: Desine41
+  - first:
+      213: 21300172
+    second: NES - Contra - Bill Rizer & Lance Bean_86
+  - first:
+      213: 21300174
+    second: NES - Contra - Bill Rizer & Lance Bean_87
+  - first:
+      213: 21300176
+    second: NES - Contra - Bill Rizer & Lance Bean_88
+  - first:
+      213: 21300178
+    second: NES - Contra - Bill Rizer & Lance Bean_89
+  - first:
+      213: 21300180
+    second: NES - Contra - Bill Rizer & Lance Bean_90
+  - first:
+      213: 21300182
+    second: NES - Contra - Bill Rizer & Lance Bean_91
+  - first:
+      213: 21300184
+    second: NES - Contra - Bill Rizer & Lance Bean_92
+  - first:
+      213: 21300186
+    second: NES - Contra - Bill Rizer & Lance Bean_93
+  - first:
+      213: 21300188
+    second: NES - Contra - Bill Rizer & Lance Bean_94
+  - first:
+      213: 21300190
+    second: NES - Contra - Bill Rizer & Lance Bean_95
+  - first:
+      213: 21300192
+    second: NES - Contra - Bill Rizer & Lance Bean_96
+  - first:
+      213: 21300194
+    second: NES - Contra - Bill Rizer & Lance Bean_97
+  - first:
+      213: 21300196
+    second: NES - Contra - Bill Rizer & Lance Bean_98
+  - first:
+      213: 21300198
+    second: NES - Contra - Bill Rizer & Lance Bean_99
+  - first:
+      213: 21300200
+    second: NES - Contra - Bill Rizer & Lance Bean_100
+  - first:
+      213: 21300202
+    second: NES - Contra - Bill Rizer & Lance Bean_101
+  - first:
+      213: 21300204
+    second: NES - Contra - Bill Rizer & Lance Bean_102
+  - first:
+      213: 21300206
+    second: NES - Contra - Bill Rizer & Lance Bean_103
+  - first:
+      213: 21300208
+    second: NES - Contra - Bill Rizer & Lance Bean_104
+  - first:
+      213: 21300210
+    second: NES - Contra - Bill Rizer & Lance Bean_105
+  - first:
+      213: 21300212
+    second: NES - Contra - Bill Rizer & Lance Bean_106
+  - first:
+      213: 21300214
+    second: NES - Contra - Bill Rizer & Lance Bean_107
+  - first:
+      213: 21300216
+    second: NES - Contra - Bill Rizer & Lance Bean_108
+  - first:
+      213: 21300218
+    second: NES - Contra - Bill Rizer & Lance Bean_109
+  - first:
+      213: 21300220
+    second: NES - Contra - Bill Rizer & Lance Bean_110
+  - first:
+      213: 21300222
+    second: NES - Contra - Bill Rizer & Lance Bean_111
+  - first:
+      213: 21300224
+    second: NES - Contra - Bill Rizer & Lance Bean_112
+  - first:
+      213: 21300226
+    second: NES - Contra - Bill Rizer & Lance Bean_113
+  - first:
+      213: 21300228
+    second: NES - Contra - Bill Rizer & Lance Bean_114
+  - first:
+      213: 21300230
+    second: NES - Contra - Bill Rizer & Lance Bean_115
+  - first:
+      213: 21300232
+    second: NES - Contra - Bill Rizer & Lance Bean_116
+  - first:
+      213: 21300234
+    second: NES - Contra - Bill Rizer & Lance Bean_117
+  - first:
+      213: 21300236
+    second: NES - Contra - Bill Rizer & Lance Bean_118
+  - first:
+      213: 21300238
+    second: NES - Contra - Bill Rizer & Lance Bean_119
+  - first:
+      213: 21300240
+    second: NES - Contra - Bill Rizer & Lance Bean_120
+  - first:
+      213: 21300242
+    second: NES - Contra - Bill Rizer & Lance Bean_121
+  - first:
+      213: 21300244
+    second: NES - Contra - Bill Rizer & Lance Bean_122
+  - first:
+      213: 21300246
+    second: NES - Contra - Bill Rizer & Lance Bean_123
+  - first:
+      213: 21300248
+    second: NES - Contra - Bill Rizer & Lance Bean_124
+  - first:
+      213: 21300250
+    second: NES - Contra - Bill Rizer & Lance Bean_125
+  - first:
+      213: 21300252
+    second: NES - Contra - Bill Rizer & Lance Bean_126
+  - first:
+      213: 21300254
+    second: NES - Contra - Bill Rizer & Lance Bean_127
+  - first:
+      213: 21300256
+    second: NES - Contra - Bill Rizer & Lance Bean_128
+  - first:
+      213: 21300258
+    second: NES - Contra - Bill Rizer & Lance Bean_129
+  - first:
+      213: 21300260
+    second: NES - Contra - Bill Rizer & Lance Bean_130
+  - first:
+      213: 21300262
+    second: NES - Contra - Bill Rizer & Lance Bean_131
+  - first:
+      213: 21300264
+    second: NES - Contra - Bill Rizer & Lance Bean_132
+  - first:
+      213: 21300266
+    second: NES - Contra - Bill Rizer & Lance Bean_133
+  - first:
+      213: 21300268
+    second: NES - Contra - Bill Rizer & Lance Bean_134
+  - first:
+      213: 21300270
+    second: NES - Contra - Bill Rizer & Lance Bean_135
+  - first:
+      213: 21300272
+    second: NES - Contra - Bill Rizer & Lance Bean_136
+  - first:
+      213: 21300274
+    second: NES - Contra - Bill Rizer & Lance Bean_137
+  - first:
+      213: 21300276
+    second: NES - Contra - Bill Rizer & Lance Bean_138
+  - first:
+      213: 21300278
+    second: NES - Contra - Bill Rizer & Lance Bean_139
+  - first:
+      213: 21300280
+    second: NES - Contra - Bill Rizer & Lance Bean_140
+  - first:
+      213: 21300282
+    second: NES - Contra - Bill Rizer & Lance Bean_141
+  - first:
+      213: 21300284
+    second: NES - Contra - Bill Rizer & Lance Bean_142
+  - first:
+      213: 21300286
+    second: NES - Contra - Bill Rizer & Lance Bean_0
+  - first:
+      213: 21300288
+    second: NES - Contra - Bill Rizer & Lance Bean_1
+  - first:
+      213: 21300290
+    second: NES - Contra - Bill Rizer & Lance Bean_11
+  - first:
+      213: 21300292
+    second: NES - Contra - Bill Rizer & Lance Bean_12
+  - first:
+      213: 21300294
+    second: NES - Contra - Bill Rizer & Lance Bean_19
+  - first:
+      213: 21300296
+    second: NES - Contra - Bill Rizer & Lance Bean_20
+  - first:
+      213: 21300298
+    second: NES - Contra - Bill Rizer & Lance Bean_23
+  - first:
+      213: 21300300
+    second: NES - Contra - Bill Rizer & Lance Bean_24
+  - first:
+      213: 21300302
+    second: NES - Contra - Bill Rizer & Lance Bean_25
+  - first:
+      213: 21300304
+    second: NES - Contra - Bill Rizer & Lance Bean_26
+  - first:
+      213: 21300306
+    second: NES - Contra - Bill Rizer & Lance Bean_27
+  - first:
+      213: 21300308
+    second: NES - Contra - Bill Rizer & Lance Bean_28
+  - first:
+      213: 21300310
+    second: NES - Contra - Bill Rizer & Lance Bean_29
+  - first:
+      213: 21300312
+    second: NES - Contra - Bill Rizer & Lance Bean_30
+  - first:
+      213: 21300314
+    second: NES - Contra - Bill Rizer & Lance Bean_31
+  - first:
+      213: 21300316
+    second: NES - Contra - Bill Rizer & Lance Bean_32
+  - first:
+      213: 21300318
+    second: NES - Contra - Bill Rizer & Lance Bean_43
+  - first:
+      213: 21300320
+    second: NES - Contra - Bill Rizer & Lance Bean_44
+  - first:
+      213: 21300322
+    second: NES - Contra - Bill Rizer & Lance Bean_45
+  - first:
+      213: 21300324
+    second: NES - Contra - Bill Rizer & Lance Bean_46
+  - first:
+      213: 21300326
+    second: NES - Contra - Bill Rizer & Lance Bean_47
+  - first:
+      213: 21300328
+    second: NES - Contra - Bill Rizer & Lance Bean_48
+  - first:
+      213: 21300330
+    second: NES - Contra - Bill Rizer & Lance Bean_49
+  - first:
+      213: 21300332
+    second: NES - Contra - Bill Rizer & Lance Bean_50
+  - first:
+      213: 21300334
+    second: NES - Contra - Bill Rizer & Lance Bean_59
+  - first:
+      213: 21300336
+    second: NES - Contra - Bill Rizer & Lance Bean_60
+  - first:
+      213: 21300338
+    second: NES - Contra - Bill Rizer & Lance Bean_61
+  - first:
+      213: 21300340
+    second: NES - Contra - Bill Rizer & Lance Bean_65
+  - first:
+      213: 21300342
+    second: NES - Contra - Bill Rizer & Lance Bean_67
+  - first:
+      213: 21300344
+    second: NES - Contra - Bill Rizer & Lance Bean_71
+  - first:
+      213: 21300346
+    second: NES - Contra - Bill Rizer & Lance Bean_72
+  - first:
+      213: 21300348
+    second: NES - Contra - Bill Rizer & Lance Bean_73
+  - first:
+      213: 21300350
+    second: NES - Contra - Bill Rizer & Lance Bean_77
+  - first:
+      213: 21300352
+    second: NES - Contra - Bill Rizer & Lance Bean_78
+  - first:
+      213: 21300354
+    second: NES - Contra - Bill Rizer & Lance Bean_79
+  - first:
+      213: 21300356
+    second: NES - Contra - Bill Rizer & Lance Bean_83
+  - first:
+      213: 21300358
+    second: NES - Contra - Bill Rizer & Lance Bean_84
+  - first:
+      213: 21300360
+    second: NES - Contra - Bill Rizer & Lance Bean_85
+  - first:
+      213: 21300362
+    second: RoboGun
+  - first:
+      213: 21300364
+    second: NES - Contra - Bill Rizer & Lance Bean_143
+  - first:
+      213: 21300366
+    second: NES - Contra - Bill Rizer & Lance Bean_144
+  externalObjects: {}
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -196,6 +563,8 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -204,6 +573,10 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -211,10 +584,13 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -223,49 +599,84 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Android
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: WebGL
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -281,7 +692,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3405410000000000800000000000000
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_1
       rect:
@@ -294,7 +713,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 5, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04405410000000000800000000000000
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_2
       rect:
@@ -307,7 +734,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_3
       rect:
@@ -320,7 +755,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_4
       rect:
@@ -333,7 +776,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_5
       rect:
@@ -346,7 +797,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_6
       rect:
@@ -359,7 +818,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_7
       rect:
@@ -372,7 +839,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_8
       rect:
@@ -385,7 +860,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_9
       rect:
@@ -398,7 +881,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_10
       rect:
@@ -411,7 +902,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_11
       rect:
@@ -424,7 +923,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24405410000000000800000000000000
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_12
       rect:
@@ -437,7 +944,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44405410000000000800000000000000
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_13
       rect:
@@ -450,7 +965,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_14
       rect:
@@ -463,7 +986,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_15
       rect:
@@ -476,7 +1007,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_16
       rect:
@@ -489,7 +1028,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_17
       rect:
@@ -502,7 +1049,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_18
       rect:
@@ -515,7 +1070,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_19
       rect:
@@ -528,7 +1091,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 64405410000000000800000000000000
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_20
       rect:
@@ -541,7 +1112,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 84405410000000000800000000000000
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_21
       rect:
@@ -554,7 +1133,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_22
       rect:
@@ -567,7 +1154,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_23
       rect:
@@ -580,7 +1175,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a4405410000000000800000000000000
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_24
       rect:
@@ -593,7 +1196,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c4405410000000000800000000000000
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_25
       rect:
@@ -606,7 +1217,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e4405410000000000800000000000000
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_26
       rect:
@@ -619,7 +1238,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 05405410000000000800000000000000
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_27
       rect:
@@ -632,7 +1259,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 25405410000000000800000000000000
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_28
       rect:
@@ -645,7 +1280,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 45405410000000000800000000000000
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_29
       rect:
@@ -658,7 +1301,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 65405410000000000800000000000000
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_30
       rect:
@@ -671,7 +1322,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 85405410000000000800000000000000
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_31
       rect:
@@ -684,7 +1343,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a5405410000000000800000000000000
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_32
       rect:
@@ -697,7 +1364,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c5405410000000000800000000000000
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_33
       rect:
@@ -710,7 +1385,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_34
       rect:
@@ -723,7 +1406,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_35
       rect:
@@ -736,7 +1427,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_36
       rect:
@@ -749,7 +1448,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_37
       rect:
@@ -762,7 +1469,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_38
       rect:
@@ -775,7 +1490,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_39
       rect:
@@ -788,7 +1511,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_40
       rect:
@@ -801,7 +1532,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_41
       rect:
@@ -814,7 +1553,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_42
       rect:
@@ -827,7 +1574,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_43
       rect:
@@ -840,7 +1595,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e5405410000000000800000000000000
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_44
       rect:
@@ -853,7 +1616,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 06405410000000000800000000000000
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_45
       rect:
@@ -866,7 +1637,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 26405410000000000800000000000000
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_46
       rect:
@@ -879,7 +1658,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 46405410000000000800000000000000
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_47
       rect:
@@ -892,7 +1679,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 66405410000000000800000000000000
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_48
       rect:
@@ -905,7 +1700,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 86405410000000000800000000000000
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_49
       rect:
@@ -918,7 +1721,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a6405410000000000800000000000000
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_50
       rect:
@@ -931,7 +1742,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c6405410000000000800000000000000
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_51
       rect:
@@ -944,7 +1763,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_52
       rect:
@@ -957,7 +1784,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_53
       rect:
@@ -970,7 +1805,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_54
       rect:
@@ -983,7 +1826,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_55
       rect:
@@ -996,7 +1847,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_56
       rect:
@@ -1009,7 +1868,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_57
       rect:
@@ -1022,7 +1889,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_58
       rect:
@@ -1035,7 +1910,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_59
       rect:
@@ -1048,7 +1931,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e6405410000000000800000000000000
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_60
       rect:
@@ -1061,7 +1952,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 07405410000000000800000000000000
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_61
       rect:
@@ -1074,7 +1973,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 27405410000000000800000000000000
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_62
       rect:
@@ -1087,7 +1994,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_63
       rect:
@@ -1100,7 +2015,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_64
       rect:
@@ -1113,7 +2036,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_65
       rect:
@@ -1126,7 +2057,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 47405410000000000800000000000000
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_66
       rect:
@@ -1139,7 +2078,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_67
       rect:
@@ -1152,7 +2099,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 67405410000000000800000000000000
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_68
       rect:
@@ -1165,7 +2120,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_69
       rect:
@@ -1178,7 +2141,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_70
       rect:
@@ -1191,7 +2162,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_71
       rect:
@@ -1204,7 +2183,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 87405410000000000800000000000000
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_72
       rect:
@@ -1217,7 +2204,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a7405410000000000800000000000000
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_73
       rect:
@@ -1230,7 +2225,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c7405410000000000800000000000000
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_74
       rect:
@@ -1243,7 +2246,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_75
       rect:
@@ -1256,7 +2267,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_76
       rect:
@@ -1269,7 +2288,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_77
       rect:
@@ -1282,7 +2309,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e7405410000000000800000000000000
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_78
       rect:
@@ -1295,7 +2330,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 08405410000000000800000000000000
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_79
       rect:
@@ -1308,7 +2351,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 28405410000000000800000000000000
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_80
       rect:
@@ -1321,7 +2372,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_81
       rect:
@@ -1334,7 +2393,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_82
       rect:
@@ -1347,7 +2414,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_83
       rect:
@@ -1360,7 +2435,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 48405410000000000800000000000000
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_84
       rect:
@@ -1373,7 +2456,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 68405410000000000800000000000000
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_85
       rect:
@@ -1386,7 +2477,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 88405410000000000800000000000000
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_86
       rect:
@@ -1399,7 +2498,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_87
       rect:
@@ -1412,7 +2519,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_88
       rect:
@@ -1425,7 +2540,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_89
       rect:
@@ -1438,7 +2561,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_90
       rect:
@@ -1451,7 +2582,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_91
       rect:
@@ -1464,7 +2603,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_92
       rect:
@@ -1477,7 +2624,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_93
       rect:
@@ -1490,7 +2645,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_94
       rect:
@@ -1503,7 +2666,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_95
       rect:
@@ -1516,7 +2687,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_96
       rect:
@@ -1529,7 +2708,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_97
       rect:
@@ -1542,7 +2729,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_98
       rect:
@@ -1555,7 +2750,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_99
       rect:
@@ -1568,7 +2771,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_100
       rect:
@@ -1581,7 +2792,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_101
       rect:
@@ -1594,7 +2813,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_102
       rect:
@@ -1607,7 +2834,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_103
       rect:
@@ -1620,7 +2855,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_104
       rect:
@@ -1633,7 +2876,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_105
       rect:
@@ -1646,7 +2897,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_106
       rect:
@@ -1659,7 +2918,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_107
       rect:
@@ -1672,7 +2939,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_108
       rect:
@@ -1685,7 +2960,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f305410000000000800000000000000
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_109
       rect:
@@ -1698,7 +2981,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_110
       rect:
@@ -1711,7 +3002,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_111
       rect:
@@ -1724,7 +3023,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ef305410000000000800000000000000
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_112
       rect:
@@ -1737,7 +3044,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_113
       rect:
@@ -1750,7 +3065,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_114
       rect:
@@ -1763,7 +3086,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_115
       rect:
@@ -1776,7 +3107,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_116
       rect:
@@ -1789,7 +3128,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_117
       rect:
@@ -1802,7 +3149,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a0405410000000000800000000000000
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_118
       rect:
@@ -1815,7 +3170,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_119
       rect:
@@ -1828,7 +3191,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e0405410000000000800000000000000
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_120
       rect:
@@ -1841,7 +3212,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 01405410000000000800000000000000
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_121
       rect:
@@ -1854,7 +3233,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 21405410000000000800000000000000
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_122
       rect:
@@ -1867,7 +3254,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 41405410000000000800000000000000
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_123
       rect:
@@ -1880,7 +3275,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 61405410000000000800000000000000
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_124
       rect:
@@ -1893,7 +3296,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81405410000000000800000000000000
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_125
       rect:
@@ -1906,7 +3317,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a1405410000000000800000000000000
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_126
       rect:
@@ -1919,7 +3338,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1405410000000000800000000000000
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_127
       rect:
@@ -1932,7 +3359,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e1405410000000000800000000000000
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_128
       rect:
@@ -1945,7 +3380,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 02405410000000000800000000000000
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_129
       rect:
@@ -1958,7 +3401,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 22405410000000000800000000000000
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_130
       rect:
@@ -1971,7 +3422,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 42405410000000000800000000000000
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_131
       rect:
@@ -1984,7 +3443,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 62405410000000000800000000000000
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_132
       rect:
@@ -1997,7 +3464,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 82405410000000000800000000000000
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_133
       rect:
@@ -2010,7 +3485,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a2405410000000000800000000000000
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_134
       rect:
@@ -2023,7 +3506,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c2405410000000000800000000000000
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_135
       rect:
@@ -2036,7 +3527,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e2405410000000000800000000000000
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_136
       rect:
@@ -2049,7 +3548,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 03405410000000000800000000000000
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_137
       rect:
@@ -2062,7 +3569,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 23405410000000000800000000000000
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_138
       rect:
@@ -2075,7 +3590,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 43405410000000000800000000000000
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_139
       rect:
@@ -2088,7 +3611,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 63405410000000000800000000000000
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_140
       rect:
@@ -2101,7 +3632,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 83405410000000000800000000000000
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_141
       rect:
@@ -2114,7 +3653,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: a3405410000000000800000000000000
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_142
       rect:
@@ -2127,7 +3674,15 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c3405410000000000800000000000000
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_143
       rect:
@@ -2140,7 +3695,15 @@ TextureImporter:
       pivot: {x: 2.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c8405410000000000800000000000000
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: NES - Contra - Bill Rizer & Lance Bean_144
       rect:
@@ -2153,9 +3716,174 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e8405410000000000800000000000000
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Contra - Bill Rizer & Lance Bean_0: 21300286
+      NES - Contra - Bill Rizer & Lance Bean_1: 21300288
+      NES - Contra - Bill Rizer & Lance Bean_10: 21300020
+      NES - Contra - Bill Rizer & Lance Bean_100: 21300200
+      NES - Contra - Bill Rizer & Lance Bean_101: 21300202
+      NES - Contra - Bill Rizer & Lance Bean_102: 21300204
+      NES - Contra - Bill Rizer & Lance Bean_103: 21300206
+      NES - Contra - Bill Rizer & Lance Bean_104: 21300208
+      NES - Contra - Bill Rizer & Lance Bean_105: 21300210
+      NES - Contra - Bill Rizer & Lance Bean_106: 21300212
+      NES - Contra - Bill Rizer & Lance Bean_107: 21300214
+      NES - Contra - Bill Rizer & Lance Bean_108: 21300216
+      NES - Contra - Bill Rizer & Lance Bean_109: 21300218
+      NES - Contra - Bill Rizer & Lance Bean_11: 21300290
+      NES - Contra - Bill Rizer & Lance Bean_110: 21300220
+      NES - Contra - Bill Rizer & Lance Bean_111: 21300222
+      NES - Contra - Bill Rizer & Lance Bean_112: 21300224
+      NES - Contra - Bill Rizer & Lance Bean_113: 21300226
+      NES - Contra - Bill Rizer & Lance Bean_114: 21300228
+      NES - Contra - Bill Rizer & Lance Bean_115: 21300230
+      NES - Contra - Bill Rizer & Lance Bean_116: 21300232
+      NES - Contra - Bill Rizer & Lance Bean_117: 21300234
+      NES - Contra - Bill Rizer & Lance Bean_118: 21300236
+      NES - Contra - Bill Rizer & Lance Bean_119: 21300238
+      NES - Contra - Bill Rizer & Lance Bean_12: 21300292
+      NES - Contra - Bill Rizer & Lance Bean_120: 21300240
+      NES - Contra - Bill Rizer & Lance Bean_121: 21300242
+      NES - Contra - Bill Rizer & Lance Bean_122: 21300244
+      NES - Contra - Bill Rizer & Lance Bean_123: 21300246
+      NES - Contra - Bill Rizer & Lance Bean_124: 21300248
+      NES - Contra - Bill Rizer & Lance Bean_125: 21300250
+      NES - Contra - Bill Rizer & Lance Bean_126: 21300252
+      NES - Contra - Bill Rizer & Lance Bean_127: 21300254
+      NES - Contra - Bill Rizer & Lance Bean_128: 21300256
+      NES - Contra - Bill Rizer & Lance Bean_129: 21300258
+      NES - Contra - Bill Rizer & Lance Bean_13: 21300026
+      NES - Contra - Bill Rizer & Lance Bean_130: 21300260
+      NES - Contra - Bill Rizer & Lance Bean_131: 21300262
+      NES - Contra - Bill Rizer & Lance Bean_132: 21300264
+      NES - Contra - Bill Rizer & Lance Bean_133: 21300266
+      NES - Contra - Bill Rizer & Lance Bean_134: 21300268
+      NES - Contra - Bill Rizer & Lance Bean_135: 21300270
+      NES - Contra - Bill Rizer & Lance Bean_136: 21300272
+      NES - Contra - Bill Rizer & Lance Bean_137: 21300274
+      NES - Contra - Bill Rizer & Lance Bean_138: 21300276
+      NES - Contra - Bill Rizer & Lance Bean_139: 21300278
+      NES - Contra - Bill Rizer & Lance Bean_14: 21300028
+      NES - Contra - Bill Rizer & Lance Bean_140: 21300280
+      NES - Contra - Bill Rizer & Lance Bean_141: 21300282
+      NES - Contra - Bill Rizer & Lance Bean_142: 21300284
+      NES - Contra - Bill Rizer & Lance Bean_143: 21300364
+      NES - Contra - Bill Rizer & Lance Bean_144: 21300366
+      NES - Contra - Bill Rizer & Lance Bean_15: 21300030
+      NES - Contra - Bill Rizer & Lance Bean_16: 21300032
+      NES - Contra - Bill Rizer & Lance Bean_17: 21300034
+      NES - Contra - Bill Rizer & Lance Bean_18: 21300036
+      NES - Contra - Bill Rizer & Lance Bean_19: 21300294
+      NES - Contra - Bill Rizer & Lance Bean_2: 21300004
+      NES - Contra - Bill Rizer & Lance Bean_20: 21300296
+      NES - Contra - Bill Rizer & Lance Bean_21: 21300042
+      NES - Contra - Bill Rizer & Lance Bean_22: 21300044
+      NES - Contra - Bill Rizer & Lance Bean_23: 21300298
+      NES - Contra - Bill Rizer & Lance Bean_24: 21300300
+      NES - Contra - Bill Rizer & Lance Bean_25: 21300302
+      NES - Contra - Bill Rizer & Lance Bean_26: 21300304
+      NES - Contra - Bill Rizer & Lance Bean_27: 21300306
+      NES - Contra - Bill Rizer & Lance Bean_28: 21300308
+      NES - Contra - Bill Rizer & Lance Bean_29: 21300310
+      NES - Contra - Bill Rizer & Lance Bean_3: 21300006
+      NES - Contra - Bill Rizer & Lance Bean_30: 21300312
+      NES - Contra - Bill Rizer & Lance Bean_31: 21300314
+      NES - Contra - Bill Rizer & Lance Bean_32: 21300316
+      NES - Contra - Bill Rizer & Lance Bean_33: 21300066
+      NES - Contra - Bill Rizer & Lance Bean_34: 21300068
+      NES - Contra - Bill Rizer & Lance Bean_35: 21300070
+      NES - Contra - Bill Rizer & Lance Bean_36: 21300072
+      NES - Contra - Bill Rizer & Lance Bean_37: 21300074
+      NES - Contra - Bill Rizer & Lance Bean_38: 21300076
+      NES - Contra - Bill Rizer & Lance Bean_39: 21300078
+      NES - Contra - Bill Rizer & Lance Bean_4: 21300008
+      NES - Contra - Bill Rizer & Lance Bean_40: 21300080
+      NES - Contra - Bill Rizer & Lance Bean_41: 21300082
+      NES - Contra - Bill Rizer & Lance Bean_42: 21300084
+      NES - Contra - Bill Rizer & Lance Bean_43: 21300318
+      NES - Contra - Bill Rizer & Lance Bean_44: 21300320
+      NES - Contra - Bill Rizer & Lance Bean_45: 21300322
+      NES - Contra - Bill Rizer & Lance Bean_46: 21300324
+      NES - Contra - Bill Rizer & Lance Bean_47: 21300326
+      NES - Contra - Bill Rizer & Lance Bean_48: 21300328
+      NES - Contra - Bill Rizer & Lance Bean_49: 21300330
+      NES - Contra - Bill Rizer & Lance Bean_5: 21300010
+      NES - Contra - Bill Rizer & Lance Bean_50: 21300332
+      NES - Contra - Bill Rizer & Lance Bean_51: 21300102
+      NES - Contra - Bill Rizer & Lance Bean_52: 21300104
+      NES - Contra - Bill Rizer & Lance Bean_53: 21300106
+      NES - Contra - Bill Rizer & Lance Bean_54: 21300108
+      NES - Contra - Bill Rizer & Lance Bean_55: 21300110
+      NES - Contra - Bill Rizer & Lance Bean_56: 21300112
+      NES - Contra - Bill Rizer & Lance Bean_57: 21300114
+      NES - Contra - Bill Rizer & Lance Bean_58: 21300116
+      NES - Contra - Bill Rizer & Lance Bean_59: 21300334
+      NES - Contra - Bill Rizer & Lance Bean_6: 21300012
+      NES - Contra - Bill Rizer & Lance Bean_60: 21300336
+      NES - Contra - Bill Rizer & Lance Bean_61: 21300338
+      NES - Contra - Bill Rizer & Lance Bean_62: 21300124
+      NES - Contra - Bill Rizer & Lance Bean_63: 21300126
+      NES - Contra - Bill Rizer & Lance Bean_64: 21300128
+      NES - Contra - Bill Rizer & Lance Bean_65: 21300340
+      NES - Contra - Bill Rizer & Lance Bean_66: 21300132
+      NES - Contra - Bill Rizer & Lance Bean_67: 21300342
+      NES - Contra - Bill Rizer & Lance Bean_68: 21300136
+      NES - Contra - Bill Rizer & Lance Bean_69: 21300138
+      NES - Contra - Bill Rizer & Lance Bean_7: 21300014
+      NES - Contra - Bill Rizer & Lance Bean_70: 21300140
+      NES - Contra - Bill Rizer & Lance Bean_71: 21300344
+      NES - Contra - Bill Rizer & Lance Bean_72: 21300346
+      NES - Contra - Bill Rizer & Lance Bean_73: 21300348
+      NES - Contra - Bill Rizer & Lance Bean_74: 21300148
+      NES - Contra - Bill Rizer & Lance Bean_75: 21300150
+      NES - Contra - Bill Rizer & Lance Bean_76: 21300152
+      NES - Contra - Bill Rizer & Lance Bean_77: 21300350
+      NES - Contra - Bill Rizer & Lance Bean_78: 21300352
+      NES - Contra - Bill Rizer & Lance Bean_79: 21300354
+      NES - Contra - Bill Rizer & Lance Bean_8: 21300016
+      NES - Contra - Bill Rizer & Lance Bean_80: 21300160
+      NES - Contra - Bill Rizer & Lance Bean_81: 21300162
+      NES - Contra - Bill Rizer & Lance Bean_82: 21300164
+      NES - Contra - Bill Rizer & Lance Bean_83: 21300356
+      NES - Contra - Bill Rizer & Lance Bean_84: 21300358
+      NES - Contra - Bill Rizer & Lance Bean_85: 21300360
+      NES - Contra - Bill Rizer & Lance Bean_86: 21300172
+      NES - Contra - Bill Rizer & Lance Bean_87: 21300174
+      NES - Contra - Bill Rizer & Lance Bean_88: 21300176
+      NES - Contra - Bill Rizer & Lance Bean_89: 21300178
+      NES - Contra - Bill Rizer & Lance Bean_9: 21300018
+      NES - Contra - Bill Rizer & Lance Bean_90: 21300180
+      NES - Contra - Bill Rizer & Lance Bean_91: 21300182
+      NES - Contra - Bill Rizer & Lance Bean_92: 21300184
+      NES - Contra - Bill Rizer & Lance Bean_93: 21300186
+      NES - Contra - Bill Rizer & Lance Bean_94: 21300188
+      NES - Contra - Bill Rizer & Lance Bean_95: 21300190
+      NES - Contra - Bill Rizer & Lance Bean_96: 21300192
+      NES - Contra - Bill Rizer & Lance Bean_97: 21300194
+      NES - Contra - Bill Rizer & Lance Bean_98: 21300196
+      NES - Contra - Bill Rizer & Lance Bean_99: 21300198
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: playerrunningup
   assetBundleVariant: 

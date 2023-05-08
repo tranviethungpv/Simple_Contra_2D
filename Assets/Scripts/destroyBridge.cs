@@ -26,7 +26,7 @@ public class destroyBridge : MonoBehaviour {
         boxCollider = gameObject.GetComponent<BoxCollider2D>();
         animator = gameObject.GetComponent<Animator>();
         reachedFirst = false;
-}
+    }
 	
 	// Update is called once per frame
 	void Update () {
@@ -45,8 +45,6 @@ public class destroyBridge : MonoBehaviour {
         if (collision.gameObject.tag == "Player")
         {
             reachedFirst = true;
-
-
         }
     }
     private void destroyStart()

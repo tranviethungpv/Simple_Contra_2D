@@ -10,13 +10,9 @@ public class EnemyMovement : MonoBehaviour {
     public bool isMoving;
     private float distance;
     private Transform target;
-    private Transform cliffSensor;
-    public bool cliffAhead;
     private Transform groundSensor;
     public bool onGround;
     private float speed = 5;
-
-    private bool reacted;
 
     public LayerMask ground;
 	// Use this for initialization
@@ -27,7 +23,6 @@ public class EnemyMovement : MonoBehaviour {
         target = myObject.transform;
         if (isMoving)
         {
-            cliffSensor = transform.Find("CliffSensor");
             groundSensor = transform.Find("GroundSensor");
         }
     }
@@ -36,24 +31,18 @@ public class EnemyMovement : MonoBehaviour {
 	void Update () {
         if (isMoving)
         {
+            //Xác định xem có đứng trên mặt đất hay ko
+            //Kiểm tra xem có bất kỳ đối tượng nào thuộc lớp ground nằm trong vùng hình tròn bán kính 0.1 tại vị trí của groundSensor hay không.
             onGround = Physics2D.OverlapCircle(groundSensor.position, 0.1f, ground);
-            cliffAhead = !Physics2D.OverlapCircle(cliffSensor.position, 0.1f, ground);
         }
        
+        //Nếu khoảng cách với Player < 20 thì chạy về phía Player
         distance = Mathf.Abs(transform.position.x - target.position.x);
         if (distance < 20f)
         {
             rigidbody2d.velocity = new Vector3(-speed, rigidbody2d.velocity.y, 0);
             animator.SetFloat("Speed", Mathf.Abs(rigidbody2d.velocity.x));
-            if (cliffAhead && onGround && !reacted)
-            {
-                ReactToCliff(Random.Range(0,3));
-                   
-            }
-            if(!cliffAhead && onGround && reacted)
-            {
-                reacted = false;
-            }
+
         }
         if (isDead || !isMoving)
         {
@@ -63,8 +52,10 @@ public class EnemyMovement : MonoBehaviour {
 
     }
 
+    //Xử lí va chạm
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        //Trúng đạn -> chết
         if(collision.gameObject.tag == "Bullet")
         {   GetComponent<AudioSource>().Play();
             Destroy(gameObject, 2f);
@@ -72,35 +63,17 @@ public class EnemyMovement : MonoBehaviour {
             animator.SetBool("Dead", true);
            
         }
+        //Đi vào vùng nguy hiểm -> chết
         if (collision.gameObject.tag == "DeathLayer" || collision.gameObject.tag == "Bounds")
         {
             Destroy(gameObject, 0f);
         }
+        //Rơi xuống nước -> chết
         if (collision.gameObject.tag == "Water")
         {
             Destroy(gameObject, 0f);
             isDead = true;
             animator.SetBool("Dead", true);
-            
-
         }
-        if (collision.gameObject.tag == "Bounds")
-        {
-            Destroy(gameObject, 0f);
-        }
-    }
-    private void ReactToCliff(float type)
-    {
-        if(type == 0)
-        {
-            rigidbody2d.velocity = new Vector2(rigidbody2d.velocity.x, 4);
-            
-        }
-        if (type > 1.5)
-        {
-            speed = -speed;
-            transform.localScale = new Vector3(-transform.localScale.x, 1, 1);
-        }
-        reacted = true;
     }
 }

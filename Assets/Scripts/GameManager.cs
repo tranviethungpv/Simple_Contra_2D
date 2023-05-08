@@ -1,11 +1,10 @@
-﻿
+﻿using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour {
 
     private bool gameEnd = false;
     private Transform player;
-    public GameObject completeLevel;
 
     private void Start()
     {
@@ -23,6 +22,6 @@ public class GameManager : MonoBehaviour {
 
     public void Complete()
     {
-        completeLevel.SetActive(true);
+        SceneManager.LoadScene(2);
     }
 }

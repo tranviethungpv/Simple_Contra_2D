@@ -24,7 +24,6 @@ public class BossController : MonoBehaviour {
         firePosition = transform.Find("FirePoint");
         firePosition2 = transform.Find("FirePointTwo");
         InvokeRepeating("Shoot", 0, 1);
-    
     }
 	
 	// Update is called once per frame
@@ -37,15 +36,12 @@ public class BossController : MonoBehaviour {
         if(collision.gameObject.tag == "Bullet")
         {
             health--;
-       
         }
         if(health == 0)
         {
             GetComponent<AudioSource>().Play();
             boxCollider.isTrigger = true;
             animator.SetBool("Destroyed", true);
-
-           
         }
     }
 
@@ -54,7 +50,6 @@ public class BossController : MonoBehaviour {
         distance = Mathf.Abs(target.position.x - transform.position.x);
         if (distance < 20f && health > 0)
         {
-
             Instantiate(bullet, firePosition.position, Quaternion.identity);
             Instantiate(bullet, firePosition2.position, Quaternion.identity);
         }
