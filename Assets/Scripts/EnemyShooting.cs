@@ -67,6 +67,7 @@ public class EnemyShooting : MonoBehaviour
             transform.localScale = theScale;
         }
     }
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
         //Nếu dính đạn -> chết

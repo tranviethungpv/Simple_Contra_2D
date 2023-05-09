@@ -29,7 +29,7 @@ public class PlayerManager : MonoBehaviour
     private Transform firePositionS;
     private Transform firePositionWd;
     private Transform firePositionF;
-    private float fireRate = 10f; //số lần bắn trong 1 giây
+    private float fireRate = 3f; //số lần bắn trong 1 giây
     float timeToFire = 0;
     public bool facingRight;
     private bool isDead = false;
